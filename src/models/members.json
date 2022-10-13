@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Mónica Denham",
+        "role": "Investigadora",
+        "image": "members/denham.jpg"
+    },
+    {
+        "name": "Karina Laneri",
+        "role": "Investigadora",
+        "image": "members/laneri.png"
+    },
+    {
+        "name": "Viviana Zimmerman",
+        "role": "Investigadora",
+        "image": "members/zimmerman.jpg"
+    }
+]

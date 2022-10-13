@@ -1,0 +1,57 @@
+[
+    {
+        "year": 2022,
+        "articles": [
+            {
+                "name": "Visualization and modeling of forest fire propagation in Patagonia",
+                "description": "Mónica Denham, Sigfrido Waidelich, Karina Laneri. Journal of Environmental Modelling & Software. ELSEVIER. ISSN: 1364-8152. 2022.",
+                "image": "articles/article0.png"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "articles": [
+            {
+                "name": "Forest Fire Simulation in High Performance Computing",
+                "description": "Mónica Denham, Sigfrido Waidelich, Viviana Zimmerman, Karina Laneri. Short papers of the 9th Conference on Cloud Computing Conference, Big Data & Emerging Topics. IX Jornadas de Cloud Computing, Big Data & Emerging Topics. ISBN: 978-950-34-2016-4. 2021.",
+                "image": "articles/article1.png"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "articles": [
+            {
+                "name": "First Steps Towards a Dynamical Model for Forest Fire Behaviour in Argentinian Landscapes.",
+                "description": "Karina Laneri, Sigfrido Waidelich, Viviana Zimmerman, Mónica Denham. Journal of Computer Science & Technology, Volumen 20 Nro 2. ISSN 1666-6038. Páginas 80-89. Octubre 2020",
+                "image": "articles/article2.png"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "articles": [
+            {
+                "name": "Fire Weather Index assessment and visualization.",
+                "description": "Sigfrido Waidelich, Viviana Zimmerman, Karina Laneri, Mónica Denham. Actas del XXV Congreso Argentino de Ciencias de la Computación (CACIC 2019). XX Workshop Procesamiento Distribuido y Paralelo. Páginas: 140-149, ISBN: 978-987-688-377-1. 2019.",
+                "image": "articles/article3.png"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "articles": [
+            {
+                "name": "Forest Fire Visualization in Real Time",
+                "description": "Sigfrido Waidelich, Karina Laneri, Mónica Denham. Journal of Computer Science & Technology, Vol 18, Nro. 3 pp 239-247. DOI:10.24215/16666038.18.e27. 2018.\nTambién publicado en: Actas de las VI Jornadas de Cloud Computing & Big Data. Editorial Facultad de Informática UNLP. 2018. pp 53 - 61. ISBN 978-950-34-1659-4.",
+                "image": "articles/article4.png"
+            },
+            {
+                "name": "Using Efficient paralelization in graphic processing units to parameterize stochastic fire propagation models",
+                "description": "Mónica Denham, Karina Laneri. ournal of Computational Science, ELSEVIER, 2018. Vol 25, pp 76-88. ISSN 1877-7503. Febrero 2018.",
+                "image": "articles/article5.png"
+            }
+        ]
+    }
+]

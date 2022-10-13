@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Simulador de Incendios Forestales",
+        "description": "Simulador de Alto Rendimiento para la propagación de incendios forestales. Desde 2017.",
+        "image": "projects/Simulador_de_Incendios_Forestales.png"
+    },
+    {
+        "name": "Fire Weather Index",
+        "description": "Indice meteorologico de peligro de incendio. Desde 2018.",
+        "image": "projects/Fire_Weather_Index.png"
+    },
+    {
+        "name": "Autómata Celular",
+        "description": "Paralelización en HPC de AC para incendios forestales. 2015-2017.",
+        "image": "projects/Automata_Celular.png"
+    }
+]
