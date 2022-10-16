@@ -3,7 +3,7 @@ import { Header } from '../components/Header'
 import { Articles } from '../components/pages/articles/Articles'
 import { Home } from '../components/pages/Home'
 import { Projects } from '../components/pages/projects/Projects'
-import { Team } from '../components/pages/team/Team'
+import { Members } from '../components/pages/members/Members'
 
 export const AppRouter = () => {
     return (
@@ -15,8 +15,8 @@ export const AppRouter = () => {
                     element={<Home />}
                 />
                 <Route
-                    path='/team'
-                    element={<Team />}
+                    path='/members'
+                    element={<Members />}
                 />
                 <Route
                     path='/articles'

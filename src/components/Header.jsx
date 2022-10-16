@@ -14,7 +14,7 @@ export const Header = () => {
                     <Col as='nav' className='d-flex gap-4'>
                         <Link to='/projects'>Proyectos</Link>
                         <Link to='/articles'>Artículos</Link>
-                        <Link to='/team'>Equipo</Link>
+                        <Link to='/members'>Equipo</Link>
                     </Col>
                 </Row>
             </Container>

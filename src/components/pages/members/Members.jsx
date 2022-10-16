@@ -2,7 +2,7 @@ import { Container } from 'react-bootstrap'
 import members from '../../../models/members.json'
 import { MemberItem } from './MemberItem'
 
-export const Team = () => {
+export const Members = () => {
     return (
         <Container>
             <h2>Equipo</h2>

@@ -1,5 +1,5 @@
 import articles from '../../../models/articles.json'
-import { Container } from 'react-bootstrap'
+import { Container, Row } from 'react-bootstrap'
 import { ArticleItem } from './ArticleItem'
 
 export const Articles = () => {
@@ -11,9 +11,11 @@ export const Articles = () => {
                 <div key={i}>
                     {!!i && <hr />}
                     <h3>{articlesByYear.year}</h3>
-                    {articlesByYear.articles.map(article =>
-                        <ArticleItem key={article.name} article={article} />
-                    )}
+                    <Row>
+                        {articlesByYear.articles.map(article =>
+                            <ArticleItem key={article.name} article={article} />
+                        )}
+                    </Row>
                 </div>
             )}
         </Container>
