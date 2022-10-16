@@ -1,10 +1,12 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# HPC-IF React App
+---
+## Requirements
+- Node >= 14.0.0
+- npm >= 5.6
 
 ## Available Scripts
 
-In the project directory, you can run:
+**`In the project directory`**, you can run:
 
 ### `npm start`
 
