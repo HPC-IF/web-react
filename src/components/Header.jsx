@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 export const Header = () => {
     return (
-        <Container fluid style={{ backgroundColor: '#eee' }} className='mb-4'>
+        <Container fluid style={{ backgroundColor: '#ddd' }} className='mb-4'>
             <Container>
                 <Row>
                     <Col>
