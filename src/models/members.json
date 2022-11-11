@@ -2,7 +2,8 @@
     {
         "name": "Mónica Denham",
         "role": "Investigadora",
-        "image": "members/denham.jpg"
+        "image": "members/denham.jpg",
+        "art": ["234", "12"]
     },
     {
         "name": "Karina Laneri",
@@ -13,5 +14,40 @@
         "name": "Viviana Zimmerman",
         "role": "Investigadora",
         "image": "members/zimmerman.jpg"
+    },
+    {
+        "name": "Sigfrido Waidelich",
+        "role": "Estudiante investigador",
+        "image": "members/no-image.png"
+    },
+    {
+        "name": "Lucas Díaz Miguez",
+        "role": "Estudiante Investigador",
+        "image": "members/diaz-miguez.jpeg"
+    },
+    {
+        "name": "Franco Dal Farra",
+        "role": "Estudiante Investigador",
+        "image": "members/dal-farra.jpg"
+    },
+    {
+        "name": "Lara Torletti",
+        "role": "Estudiante Investigador",
+        "image": "members/torletti.png"
+    },
+    {
+        "name": "Mirko Pojmaevich",
+        "role": "Estudiante Investigador",
+        "image": "members/no-image.png"
+    },
+    {
+        "name": "Pedro De La Cruz",
+        "role": "Estudiante Investigador",
+        "image": "members/no-image.png"
+    },
+    {
+        "name": "Emilio Bianchi",
+        "role": "Estudiante Investigador",
+        "image": "members/no-image.png"
     }
 ]
