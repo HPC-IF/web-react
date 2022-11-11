@@ -1,51 +1,60 @@
 [
     {
+        "id": "6aeddef9-e935-4242-bde0-cf59da0fbeaa",
         "name": "Mónica Denham",
         "role": "Investigadora",
-        "image": "members/denham.jpg",
-        "art": ["234", "12"]
+        "image": "members/denham.jpg"
     },
     {
+        "id": "9fa7b194-5dc1-45a8-9658-0293afd9a560",
         "name": "Karina Laneri",
         "role": "Investigadora",
         "image": "members/laneri.png"
     },
     {
+        "id": "0e5df68b-4877-45d3-aa21-32abfe943428",
         "name": "Viviana Zimmerman",
         "role": "Investigadora",
         "image": "members/zimmerman.jpg"
     },
     {
+        "id": "4fddd67d-6d35-4fae-8500-fc0bbb73129e",
         "name": "Sigfrido Waidelich",
         "role": "Estudiante investigador",
         "image": "members/no-image.png"
     },
     {
+        "id": "49c39b62-7c1b-43d6-b6a8-3a831a326dc8",
         "name": "Lucas Díaz Miguez",
         "role": "Estudiante Investigador",
         "image": "members/diaz-miguez.jpeg"
     },
     {
+        "id": "4d3b1d14-d88d-44c1-bf63-0ef4cd2b8fd7",
         "name": "Franco Dal Farra",
         "role": "Estudiante Investigador",
         "image": "members/dal-farra.jpg"
     },
     {
+        "id": "1572fe6e-50a2-4d26-80bd-01c039442772",
         "name": "Lara Torletti",
         "role": "Estudiante Investigador",
         "image": "members/torletti.png"
     },
     {
+        "id": "eda69dd9-578c-4cf3-95bb-0ebdbb32f7e1",
         "name": "Mirko Pojmaevich",
         "role": "Estudiante Investigador",
         "image": "members/no-image.png"
     },
     {
+        "id": "1a71ae0f-4bd3-431b-b0ff-c4918b76fd39",
         "name": "Pedro De La Cruz",
         "role": "Estudiante Investigador",
         "image": "members/no-image.png"
     },
     {
+        "id": "8cc80390-9e08-43c7-85d1-624d777f99f4",
         "name": "Emilio Bianchi",
         "role": "Estudiante Investigador",
         "image": "members/no-image.png"
