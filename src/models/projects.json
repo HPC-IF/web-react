@@ -1,17 +1,37 @@
 [
     {
+        "id": "23dd07f1-e194-49b5-929e-c594d6414393",
         "name": "Simulador de Incendios Forestales",
         "description": "Simulador de Alto Rendimiento para la propagación de incendios forestales. Desde 2017.",
-        "image": "projects/Simulador_de_Incendios_Forestales.png"
+        "image": "projects/Simulador_de_Incendios_Forestales.png",
+        "authors": [
+            "6aeddef9-e935-4242-bde0-cf59da0fbeaa",
+            "9fa7b194-5dc1-45a8-9658-0293afd9a560",
+            "4fddd67d-6d35-4fae-8500-fc0bbb73129e",
+            "49c39b62-7c1b-43d6-b6a8-3a831a326dc8"
+        ]
     },
     {
+        "id": "af65b3ce-6ec4-4043-a293-5ac3dc1e1877",
         "name": "Fire Weather Index",
         "description": "Indice meteorologico de peligro de incendio. Desde 2018.",
-        "image": "projects/Fire_Weather_Index.png"
+        "image": "projects/Fire_Weather_Index.png",
+        "authors": [
+            "6aeddef9-e935-4242-bde0-cf59da0fbeaa",
+            "9fa7b194-5dc1-45a8-9658-0293afd9a560",
+            "0e5df68b-4877-45d3-aa21-32abfe943428",
+            "49c39b62-7c1b-43d6-b6a8-3a831a326dc8",
+            "4fddd67d-6d35-4fae-8500-fc0bbb73129e"
+        ]
     },
     {
+        "id": "204d017c-3b6b-4a45-bced-315a9f024440",
         "name": "Autómata Celular",
         "description": "Paralelización en HPC de AC para incendios forestales. 2015-2017.",
-        "image": "projects/Automata_Celular.png"
+        "image": "projects/Automata_Celular.png",
+        "authors": [
+            "6aeddef9-e935-4242-bde0-cf59da0fbeaa",
+            "9fa7b194-5dc1-45a8-9658-0293afd9a560"
+        ]
     }
 ]
