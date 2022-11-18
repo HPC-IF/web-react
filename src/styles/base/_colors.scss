@@ -1,0 +1,47 @@
+$primary: #4d4dff;
+$secondary: #3655b3;
+$tertiary: #d3deff;
+$quaternary: #a6bcff;
+$quinary: #ffffff;
+
+// Colors
+.color-primary{
+    color: $primary;
+}
+
+.color-secondary{
+    color: $secondary;
+}
+
+.color-tertiary{
+    color: $tertiary;
+}
+
+.color-quaternary{
+    color: $quaternary;
+}
+
+.color-quinary{
+    color: $quinary;
+}
+
+// Background colors
+.bgc-primary{
+    background-color: $primary;
+}
+
+.bgc-secondary{
+    background-color: $secondary;
+}
+
+.bgc-tertiary{
+    background-color: $tertiary;
+}
+
+.bgc-quaternary{
+    background-color: $quaternary;
+}
+
+.bgc-quinary{
+    background-color: $quinary;
+}

@@ -10,7 +10,7 @@ export const MemberItem = ({ member }) => {
                     style={{ height: 180, width: 180, objectFit: 'cover', borderRadius: '100%' }}
                 />
                 <div>
-                    <h4>{member.name}</h4>
+                    <h4 className="color-secondary">{member.name}</h4>
                     <p>{member.role}</p>
                 </div>
             </div>
