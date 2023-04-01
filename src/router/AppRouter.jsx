@@ -4,6 +4,7 @@ import { Articles } from '../components/pages/articles/Articles'
 import { Home } from '../components/pages/Home'
 import { Projects } from '../components/pages/projects/Projects'
 import { Members } from '../components/pages/members/Members'
+import { ProjectDetail } from '../components/pages/projects/ProjectDetail'
 
 export const AppRouter = () => {
     return (
@@ -25,6 +26,10 @@ export const AppRouter = () => {
                 <Route
                     path='/projects'
                     element={<Projects />}
+                />
+                <Route
+                    path='/projects/:id'
+                    element={<ProjectDetail />}
                 />
             </Routes>
         </Router>
