@@ -3,60 +3,172 @@
         "id": "6aeddef9-e935-4242-bde0-cf59da0fbeaa",
         "name": "Mónica Denham",
         "role": "Investigadora",
-        "image": "members/denham.jpg"
+        "image": "denham.jpg",
+        "description": "Investigadora CONICET - UNRN",
+        "contact": [
+            {
+                "name": "CV",
+                "url": "mi cv"
+            },
+            {
+                "name": "GitHub",
+                "url": "https://github.com/monicadenham"
+            },
+            {
+                "name": "Google Scholar",
+                "url": "https://scholar.google.es/citations?user=r2o1cbUAAAAJ&hl=en&oi=en"
+            }
+        ],
+        "body": [
+            "Mi nombre es Mónica Denham, soy investigadora y docente universitaria en el área de computación y tecnologías. Estudié en la Universidad Nacional de La Plata , donde obtuve los títulos de Analista de Sistemas y Licenciada en Informática (2003 y 2005 respectivamente).",
+            "Luego realicé mi doctorado y posdoc en la Universidad Autónoma de Barcelona , en el Departamento de Arquitectura de Computadores y Sistemas Operativos (DACSO) España (2009 y 2010).",
+            "Durante mis años de estudios de grado y posgrado me desempeñé como docente en áreas de programación, programación paralela y concurrente, sistemas operativos, etc.",
+            "Desde mis primeros pasos en la investigación, me dediqué a la programación paralela y de alto rendimiento. Durante los últimos años de mi licenciatura investigué en el III-LIDI de la Facultad de Informática de la Universidad Nacional de La Plata. Los temas de investigación fueron principalmente la optimización de soluciones paralelas para problemas de álgebra lineal. Desde ese momento, mis temas de investigación (hasta la actualidad) se han desarrollado en el entorno del High Performance Computing (HPC) o Computación de Alto Rendimiento.",
+            "En el año 2005 obtuve mi título de Licenciada y obtuve una beca para realizar un doctorado en la Universidad Autónoma de Barcelona. Durante los 4 años del doctorado di continuidad a la investigación en computación paralela y de alto rendimiento. En dicho momento mi investigación estuvo aplicada a la simulación paralela de la propagación del fuego en incendios forestales. En el año 2007 realicé la \"Suficiencia Investigadora\", título similar a una maestría argentina. En el año 2009 obtuve el título de Doctora por la Universidad Autónoma de Barcelona, en Informática. Durante dichos años me desempeñé coom docente en materias relacionadas a los sistemas operativos y a la informática en general.",
+            "En el año 2009 continué con una beca posdoctoral, dando continuidad al tema de investigación de incendios forestales en High Performance Computing. Durante el ciclo lectivo 2009-2010 fui docente del programa de Master en Computación de Altas Prestaciones. Durante mi doctorado y posdoc, la arquitectura paralela utilizada fueron distintos clusters de computadoras instalados en el Departamento de Arquitectura de Computadores y Sistemas Operativos (DACSO) .",
+            "En el año 2010 retorné a la Argentina, radicándome en la ciudad de San Carlos de Bariloche y teniendo como lugar de trabajo la Universidad Nacional de Río Negro. En el año 2013 ingresé a CONICET como investigadora, hasta la fecha. Mis temas de investigación son, manteniendo HPC como marco de trabajo, la simulación de la propagación del fuego en incendios forestales y la paralelización de algoritmos de procesamiento de señales de radar. Desde el año 2011 migré de trabajar con clusters de computadoras a placas gráficas de tipo GPGPU (placas de video juegos). Actualmente me desempeño como docente en materias de programación de computadoras y sistemas operativos. Además, desde el año 2021 me desempeño como Directora del Centro Interdisciplinario de Telecomunicaciones, Electrónica, Computación y Ciencia Aplicada, de la Sede Andina de la Universidad Nacional de Río Negro."
+        ]
     },
     {
         "id": "9fa7b194-5dc1-45a8-9658-0293afd9a560",
         "name": "Karina Laneri",
         "role": "Investigadora",
-        "image": "members/laneri.png"
+        "image": "laneri.png",
+        "description": "Investigadora CONICET - Centro Atómico Bariloche",
+        "contact": [
+            {
+                "name": "CV",
+                "url": "mi cv"
+            },
+            {
+                "name": "GitHub",
+                "url": "https://github.com/laneri"
+            },
+            {
+                "name": "Google Scholar",
+                "url": "https://scholar.google.com.ar/citations?user=SO9DVtEAAAAJ&hl=en"
+            }
+        ],
+        "body": [
+            "Mi nombre es Karina Fabiana Laneri, soy investigadora independiente de CONICET en el Grupo de Física Estadística e Interdisciplinaria (FiEstIn) del Centro Atómico Bariloche. Actualmente también me desempeño como docente adscripta universitaria del Instituto Balseiro en el área de machine learning. Estudié la licenciatura en Física en la Universidad Nacional de La Plata , donde también hice mi doctorado en Ciencias.",
+            "Luego realicé un postdoc en la Universidad de Bar Ilán, Israel otro posdoc en el Instituto Mediterraneo de Estudios Avanzados, Mallorca, España , otro posdosc en el Departamento de Ecología de la Universidad de Michigan, Estados Unidos y un cuarto posdoc en el Institut Català de Ciencies del Clima, Barcelona, España.",
+            "Regresé al país en el año 2012 con una beca de reiserción postdoctoral de CONICET para científicos en el exterior, lo que me permitió ingresar a la carrera del investigador de CONICET en el año 2013."
+        ]
     },
     {
         "id": "0e5df68b-4877-45d3-aa21-32abfe943428",
         "name": "Viviana Zimmerman",
         "role": "Investigadora",
-        "image": "members/zimmerman.jpg"
+        "image": "zimmerman.jpg",
+        "description": "Colaboradora",
+        "contact": [
+            {
+                "name": "Research Gate",
+                "url": "https://www.researchgate.net/profile/Viviana-Zimmerman"
+            }
+        ],
+        "body": [
+            "Mi nombre es Viviana Zimmerman, soy docente de Física en el Centro Regional Universitario de Bariloche de la Universidad Nacional del Comahue , y actualmente colaboro con desarrollos computacionales en grupos de investigación en ecología. Realicé mis estudios de grado y posgrado en la Universidad Nacional de Tucumán , donde obtuve los títulos de Licenciada y Doctora en Física.",
+            "Realicé una estancia de estudios en el School of Computer Science and Electronic Engineering, University of Wales, Bangor, y un postdoctorado en el Departamento de Tecnologías de la Información y las Comunicaciones, Universitat Pompeu Fabra, Barcelona."
+        ]
     },
     {
         "id": "4fddd67d-6d35-4fae-8500-fc0bbb73129e",
         "name": "Sigfrido Waidelich",
         "role": "Estudiante investigador",
-        "image": "members/no-image.png"
+        "image": "no-image.png"
     },
     {
         "id": "49c39b62-7c1b-43d6-b6a8-3a831a326dc8",
         "name": "Lucas Díaz Miguez",
         "role": "Estudiante Investigador",
-        "image": "members/diaz-miguez.jpeg"
+        "image": "diaz-miguez.jpeg",
+        "description": "Estudiante investigador",
+        "contact": [
+            {
+                "name": "GitHub",
+                "url": "https://github.com/LucasDiazMiguez"
+            }
+        ],
+        "body": [
+            "Mi nombre es Lucas Díaz Miguez, soy estudiante de Ing en electrónica en la UNRN e investigador integrante del proyecto \"Computación de Alto Rendimiento. Aplicación en Simulación de Incendios Forestales\".",
+            "En cuanto al proyecto, formo parte de la rama enfocada en la AI (Artificial Intelligence), en la cuál buscamos técnicas y maneras para mejorar las herramientas de las cuales disponemos actualmente (Simulador de incendios forestales, Imagenes de cicatrices, etc).",
+            "Además de ser estudiante de Ing, soy Desarrollador web y de Apps en la empresa Devtion It, en la cuál estoy ya hace 1 año."
+        ]
     },
     {
         "id": "4d3b1d14-d88d-44c1-bf63-0ef4cd2b8fd7",
         "name": "Franco Dal Farra",
         "role": "Estudiante Investigador",
-        "image": "members/dal-farra.jpg"
+        "image": "dal-farra.jpg",
+        "description": "Estudiante investigador",
+        "contact": [
+            {
+                "name": "GitHub",
+                "url": "https://github.com/Franco-DF"
+            }
+        ],
+        "body": [
+            "Mi nombre es Franco Dal Farra, soy estudiante de la carrera de Ingeniería Electrónica en la Universidad Nacional de Río Negro, y egresado de la Escuela Cooperativa Técnica 'Los Andes' con el título de Técnico en Automatización y Sistemas de Control (2019).",
+            "Actualmente me desempeño como investigador estudiante del proyecto \"Computación de Alto Rendimiento. Aplicación en Simulación de Incendios Forestales\". Proyecto del Centro Interdisciplinario de Telecomunicaciones, Electrónica, Computación y Ciencia Aplicada (CITECCA) de la Sede Andina de la Universidad Nacional de Río Negro, en San Carlos de Bariloche. Fecha comienzo: mayo 2022. Tareas: programador de aplicaciones paralelas."
+        ]
     },
     {
         "id": "1572fe6e-50a2-4d26-80bd-01c039442772",
         "name": "Lara Torletti",
         "role": "Estudiante Investigador",
-        "image": "members/torletti.png"
+        "image": "torletti.png",
+        "description": "Estudiante investigador",
+        "contact": [
+            {
+                "name": "GitHub",
+                "url": "https://github.com/LariTor"
+            }
+        ],
+        "body": [
+            "Mi nombre es Lara Agostina Torletti, soy estudiante de la carrera de Ingeniería Electrónica en la Universidad Nacional de Río Negro.",
+            "Actualmente me desempeño como investigadora estudiante del proyecto \"Computación de Alto Rendimiento. Aplicación en Simulación de Incendios Forestales\". Proyecto del Centro Interdisciplinario de Telecomunicaciones, Electrónica, Computación y Ciencia Aplicada (CITECCA) de la Sede Andina de la Universidad Nacional de Río Negro, en San Carlos de Bariloche. Fecha comienzo: mayo 2022. Tareas: programador de aplicaciones paralelas.",
+            "Mis primeros pasos en la investigación fueron en un Proyecto Desafío de NASA International Space Apps Challenge (2020), en donde el tema global a investigar era la automatización de detección de catástrofes."
+        ]
     },
     {
         "id": "eda69dd9-578c-4cf3-95bb-0ebdbb32f7e1",
         "name": "Mirko Pojmaevich",
         "role": "Estudiante Investigador",
-        "image": "members/no-image.png"
+        "image": "no-image.png"
     },
     {
         "id": "1a71ae0f-4bd3-431b-b0ff-c4918b76fd39",
         "name": "Pedro De La Cruz",
         "role": "Estudiante Investigador",
-        "image": "members/no-image.png"
+        "image": "no-image.png",
+        "description": "Estudiante investigador",
+        "contact": [
+            {
+                "name": "Blog",
+                "url": "pedrodelax.blogspot.com"
+            }
+        ],
+        "body": [
+            "Mi nombre es Pedro De La Cruz, soy estudiante de ingeniería electrónica en la Universidad Nacional de Río Negro. Realizé mis estudios secundarios en la Escuela Cooperativa Técnica Los Andes, en donde me recibi de técnico en automatizacion y sistemas de control.",
+            "Mi tarea en el proyecto consiste en la programación de aplicaciones paralelas."
+        ]
     },
     {
         "id": "8cc80390-9e08-43c7-85d1-624d777f99f4",
         "name": "Emilio Bianchi",
         "role": "Estudiante Investigador",
-        "image": "members/no-image.png"
+        "image": "no-image.png",
+        "description": "Investigador",
+        "contact": [
+            {
+                "name": "Google Scholar",
+                "url": "https://scholar.google.com/citations?user=DKwH0FcAAAAJ&hl=es&oi=sra"
+            }
+        ],
+        "body": [
+            "Mi nombre es Emilio Bianchi, soy investigador y docente universitario en la Universidad Nacional de Río Negro en el área de climatología y energías renovables. Estudié Licenciatura en ciencias de la atmósfera en la Universidad de Buenos Aires.",
+            "Trabajé en en Instituto Nacional de Tecnología Agropecuaria (INTA) al mismo tiempo que realizé un doctorado en biología en la Universidad Nacional del Comahue con una beca CONICET."
+        ]
     }
 ]

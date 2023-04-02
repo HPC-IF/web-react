@@ -5,6 +5,7 @@ import { Home } from '../components/pages/Home'
 import { Projects } from '../components/pages/projects/Projects'
 import { Members } from '../components/pages/members/Members'
 import { ProjectDetail } from '../components/pages/projects/ProjectDetail'
+import { MemberDetail } from '../components/pages/members/MemberDetail'
 
 export const AppRouter = () => {
     return (
@@ -18,6 +19,10 @@ export const AppRouter = () => {
                 <Route
                     path='/members'
                     element={<Members />}
+                />
+                <Route
+                    path='/members/:id'
+                    element={<MemberDetail />}
                 />
                 <Route
                     path='/articles'

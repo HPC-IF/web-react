@@ -1,5 +1,5 @@
 import '../styles/components/_header.scss'
-import { Container } from 'react-bootstrap'
+import { Col, Container, Row } from 'react-bootstrap'
 import { Link } from 'react-router-dom'
 
 export const Header = () => {
@@ -7,9 +7,13 @@ export const Header = () => {
         <>
             <Container fluid className='bgc-secondary comp_header'>
                 <Container>
-                    <Link to='/'>
-                        <h1 className='m-0 py-2 color-quinary' style={{ width: '40rem' }}>Investigación aplicada a la simulación de incedios forestales</h1>
-                    </Link>
+                    <Row>
+                        <Col xs={12} lg={8}>
+                            <Link to='/'>
+                                <h1 className='m-0 py-2 color-quinary' style={{ width: '40rem' }}>Investigación aplicada a la simulación de incedios forestales</h1>
+                            </Link>
+                        </Col>
+                    </Row>
                 </Container>
             </Container>
 

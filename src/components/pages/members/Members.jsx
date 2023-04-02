@@ -11,10 +11,11 @@ export const Members = () => {
                 Abordamos la problemática desde distintos puntos de vista, y esto incrementa la creatividad de nuestras soluciones y las bases científicas que las sustentan.
                 Los integrantes del equipo de trabajo trabajamos en distintas instituciones: Consejo Nacional de Investigaciones Cietíficas y Técnicas (CONICET), Universidad Nacional de Río Negro (Sede Andina, Bariloche), Centro Atómico Bariloche, Universidad Nacional del Comahue (Centro Regional Universitario Bariloche).
             </p>
+            <hr/>
             <Row className='mb-4'>
                 <h3>Miembros actuales</h3>
             </Row>
-            <Row className='g-4'>
+            <Row className='g-5'>
                 {members.map(member =>
                     <MemberItem key={member.name} member={member} />
                 )}
