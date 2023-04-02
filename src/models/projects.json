@@ -11,8 +11,14 @@
             "49c39b62-7c1b-43d6-b6a8-3a831a326dc8"
         ],
         "videos": [
-            "https://youtu.be/amD8-mR5wyQ",
-            "https://youtu.be/ofHhbKjafmU"
+            {
+                "title": "title",
+                "url": "amD8-mR5wyQ"
+            },
+            {
+                "title": "title",
+                "url": "ofHhbKjafmU"
+            }
         ]
     },
     {
