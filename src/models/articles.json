@@ -3,10 +3,16 @@
         "year": 2022,
         "articles": [
             {
+                "id": "2028f7b1-6a78-4ca1-ab0b-d2488cb41b60",
                 "name": "Visualization and modeling of forest fire propagation in Patagonia",
                 "linkTo": "https://www.sciencedirect.com/science/article/pii/S1364815222002262",
                 "description": "Mónica Denham, Sigfrido Waidelich, Karina Laneri. Journal of Environmental Modelling & Software. ELSEVIER. ISSN: 1364-8152. 2022.",
-                "image": "articles/article0.png"
+                "image": "articles/article0.png",
+                "authors": [
+                    "6aeddef9-e935-4242-bde0-cf59da0fbeaa",
+                    "4fddd67d-6d35-4fae-8500-fc0bbb73129e",
+                    "9fa7b194-5dc1-45a8-9658-0293afd9a560"
+                ]
             }
         ]
     },
@@ -14,10 +20,17 @@
         "year": 2021,
         "articles": [
             {
+                "id": "7d7e6164-efba-4407-af77-d056236c26b8",
                 "name": "Forest Fire Simulation in High Performance Computing",
                 "linkTo": "http://sedici.unlp.edu.ar/handle/10915/125257",
                 "description": "Mónica Denham, Sigfrido Waidelich, Viviana Zimmerman, Karina Laneri. Short papers of the 9th Conference on Cloud Computing Conference, Big Data & Emerging Topics. IX Jornadas de Cloud Computing, Big Data & Emerging Topics. ISBN: 978-950-34-2016-4. 2021.",
-                "image": "articles/article1.png"
+                "image": "articles/article1.png",
+                "authors": [
+                    "6aeddef9-e935-4242-bde0-cf59da0fbeaa",
+                    "4fddd67d-6d35-4fae-8500-fc0bbb73129e",
+                    "0e5df68b-4877-45d3-aa21-32abfe943428",
+                    "9fa7b194-5dc1-45a8-9658-0293afd9a560"
+                ]
             }
         ]
     },
@@ -25,10 +38,17 @@
         "year": 2020,
         "articles": [
             {
+                "id": "a1b6ac68-a769-416e-94f2-4fef75b40092",
                 "name": "First Steps Towards a Dynamical Model for Forest Fire Behaviour in Argentinian Landscapes.",
                 "linkTo": "http://sedici.unlp.edu.ar/handle/10915/108004",
                 "description": "Karina Laneri, Sigfrido Waidelich, Viviana Zimmerman, Mónica Denham. Journal of Computer Science & Technology, Volumen 20 Nro 2. ISSN 1666-6038. Páginas 80-89. Octubre 2020",
-                "image": "articles/article2.png"
+                "image": "articles/article2.png",
+                "authors": [
+                    "9fa7b194-5dc1-45a8-9658-0293afd9a560",
+                    "4fddd67d-6d35-4fae-8500-fc0bbb73129e",
+                    "0e5df68b-4877-45d3-aa21-32abfe943428",
+                    "6aeddef9-e935-4242-bde0-cf59da0fbeaa"
+                ]
             }
         ]
     },
@@ -36,10 +56,17 @@
         "year": 2019,
         "articles": [
             {
+                "id": "24d32a96-57bf-430a-badf-d9021423fee2",
                 "name": "Fire Weather Index assessment and visualization.",
                 "linkTo": "http://sedici.unlp.edu.ar/handle/10915/90905",
                 "description": "Sigfrido Waidelich, Viviana Zimmerman, Karina Laneri, Mónica Denham. Actas del XXV Congreso Argentino de Ciencias de la Computación (CACIC 2019). XX Workshop Procesamiento Distribuido y Paralelo. Páginas: 140-149, ISBN: 978-987-688-377-1. 2019.",
-                "image": "articles/article3.png"
+                "image": "articles/article3.png",
+                "authors": [
+                    "4fddd67d-6d35-4fae-8500-fc0bbb73129e",
+                    "0e5df68b-4877-45d3-aa21-32abfe943428",
+                    "9fa7b194-5dc1-45a8-9658-0293afd9a560",
+                    "6aeddef9-e935-4242-bde0-cf59da0fbeaa"
+                ]
             }
         ]
     },
@@ -47,16 +74,27 @@
         "year": 2018,
         "articles": [
             {
+                "id": "c4053bf4-6c62-48fc-a8f1-b578095de67f",
                 "name": "Forest Fire Visualization in Real Time",
                 "linkTo": "http://sedici.unlp.edu.ar/handle/10915/71659",
                 "description": "Sigfrido Waidelich, Karina Laneri, Mónica Denham. Journal of Computer Science & Technology, Vol 18, Nro. 3 pp 239-247. DOI:10.24215/16666038.18.e27. 2018.\nTambién publicado en: Actas de las VI Jornadas de Cloud Computing & Big Data. Editorial Facultad de Informática UNLP. 2018. pp 53 - 61. ISBN 978-950-34-1659-4.",
-                "image": "articles/article4.png"
+                "image": "articles/article4.png",
+                "authors": [
+                    "4fddd67d-6d35-4fae-8500-fc0bbb73129e",
+                    "9fa7b194-5dc1-45a8-9658-0293afd9a560",
+                    "6aeddef9-e935-4242-bde0-cf59da0fbeaa"
+                ]
             },
             {
+                "id": "72851090-bb0e-4d69-98dc-accea2d86dc5",
                 "name": "Using Efficient paralelization in graphic processing units to parameterize stochastic fire propagation models",
                 "linkTo": "https://www.sciencedirect.com/science/article/pii/S1877750317308773",
                 "description": "Mónica Denham, Karina Laneri. ournal of Computational Science, ELSEVIER, 2018. Vol 25, pp 76-88. ISSN 1877-7503. Febrero 2018.",
-                "image": "articles/article5.png"
+                "image": "articles/article5.png",
+                "authors": [
+                    "6aeddef9-e935-4242-bde0-cf59da0fbeaa",
+                    "9fa7b194-5dc1-45a8-9658-0293afd9a560"
+                ]
             }
         ]
     },
@@ -64,10 +102,20 @@
         "year": 2012,
         "articles": [
             {
+                "id": "3d7b59c5-f5f5-4c72-ba87-4daacca7b06f",
                 "name": "Dynamic Data Driven Genetic Algorithm for forest spread prediction.",
                 "linkTo": "https://www.sciencedirect.com/science/article/pii/S1877750312000658",
                 "description": "Mónica Denham, Kerstin Wendt, Germán Bianchini, Ana Cortés, Tomás Margalef. Journal of Computational Science. Volumen 3, número 5, p398-404. ISSN: 1877-7503. ELSEVIER. 2012.",
-                "image": "articles/article6.jpg"
+                "image": "articles/article6.jpg",
+                "authors": [
+                    "6aeddef9-e935-4242-bde0-cf59da0fbeaa"
+                ],
+                "otherAuthors": [
+                    "Kerstin Wendt",
+                    "Germán Bianchini",
+                    "Ana Cortés",
+                    "Tomás Margalef"
+                ]
             }
         ]
     },
@@ -75,16 +123,33 @@
         "year": 2011,
         "articles": [
             {
+                "id": "08f67345-3311-4e71-9a92-7d21c1efdd9d",
                 "name": "Scalability Analysis of a Parallel Dynamic Data Driven Genetic Algorithm for Forest Fire Spread Prediction.",
                 "linkTo": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.217.6951&rep=rep1&type=pdf",
                 "description": "Mónica Denham, Ana Cortés, Tomás Margalef.Proceedings of the 2011 International Conference on Parallel and Distributed Processing. Techniques and Applications. Las Vegas, Nevada: CSREA Press. 2011. p633 - 637. ISBN 1-60132-193-7.",
-                "image": "articles/article7.png"
+                "image": "articles/article7.png",
+                "authors": [
+                    "6aeddef9-e935-4242-bde0-cf59da0fbeaa"
+                ],
+                "otherAuthors": [
+                    "Ana Cortés",
+                    "Tomás Margalef"
+                ]
             },
             {
+                "id": "df2be2e5-039f-4170-bdd0-1fdd71d33b89",
                 "name": "Evolutionary Optimisation Techniques to Estimate Input Parameters in Environmental Emergency Modelling.",
                 "linkTo": "https://link.springer.com/chapter/10.1007/978-3-642-20986-4_5",
                 "description": "Kerstin Wendt, Mónica Denham, Ana Cortés, Tomás Margalef. Computational Optimization and Applications in Engineering and Industry (capítulo de libro). Studies in Computational Intelligence. Volumen 359. Springer. ISBN: 978-3-642-20986-4. Páginas 125 - 144. 2011.",
-                "image": "articles/article8.png"
+                "image": "articles/article8.png",
+                "authors": [
+                    "6aeddef9-e935-4242-bde0-cf59da0fbeaa"
+                ],
+                "otherAuthors": [
+                    "Kerstin Wendt",
+                    "Ana Cortés",
+                    "Tomás Margalef"
+                ]
             }
         ]
     },
@@ -92,10 +157,20 @@
         "year": 2010,
         "articles": [
             {
+                "id": "37fa0bda-dd7b-4f30-b551-1b38f4e0018c",
                 "name": "Wildland Fire Growth Prediction Method Based on Multiple Overlapping Solution.",
                 "linkTo": "https://www.sciencedirect.com/science/article/pii/S1877750310000463",
                 "description": "Germán Bianchini, Mónica Denham, Ana Cortés, Tomás Margalef, Emilio Luque. Journal of Computational Science. Volumen 1 número 4, p229-237. ISSN: 1877-7503. ELSEVIER. 2010.",
-                "image": "articles/article9.jpg"
+                "image": "articles/article9.jpg",
+                "authors": [
+                    "6aeddef9-e935-4242-bde0-cf59da0fbeaa"
+                ],
+                "otherAuthors": [
+                    "Germán Bianchini",
+                    "Ana Cortés",
+                    "Tomás Margalef",
+                    "Emilio Luque"
+                ]
             }
         ]
     },
@@ -103,16 +178,34 @@
         "year": 2009,
         "articles": [
             {
+                "id": "150a60ae-676b-4dfc-b266-7c0faeab7032",
                 "name": "Parallel Dynamic Data Driven Genetic Algorithm for Forest Fire Prediction.",
                 "linkTo": "https://link.springer.com/chapter/10.1007/978-3-642-03770-2_40",
                 "description": "Mónica Denham, Ana Cortés, Tomás Margalef.Lecture Notes in Computer Science. Volume 5759. Recent Advances in Parallel Virtual Machine and Message Passing Interface. Springer. 2009. p323-324. ISBN 978-3-642-03769-6.",
-                "image": "articles/article10.png"
+                "image": "articles/article10.png",
+                "authors": [
+                    "6aeddef9-e935-4242-bde0-cf59da0fbeaa"
+                ],
+                "otherAuthors": [
+                    "Germán Bianchini",
+                    "Ana Cortés",
+                    "Tomás Margalef"
+                ]
             },
             {
+                "id": "3cd580e0-47a1-4721-9956-cc2b7c7efc87",
                 "name": "Computational Steering Strategy to Calibrate Input Variables in a Dynamic Data Driven Genetic Algorithm for Forest Fire Spread Prediction.",
                 "linkTo": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.225&rep=rep1&type=pdf",
                 "description": "Kerstin Wendt, Mónica Denham, Ana Cortés, Tomás Margalef.Lecture Notes in Computer Science. Volume 5545. Computational Science - ICCS 2009. Springer. 2009. p479 - 488. ISBN 978-3-642-01972-2.",
-                "image": "articles/article11.png"
+                "image": "articles/article11.png",
+                "authors": [
+                    "6aeddef9-e935-4242-bde0-cf59da0fbeaa"
+                ],
+                "otherAuthors": [
+                    "Kerstin Wendt",
+                    "Ana Cortés",
+                    "Tomás Margalef"
+                ]
             }
         ]
     },
@@ -120,10 +213,18 @@
         "year": 2008,
         "articles": [
             {
+                "id": "40075b0b-16f7-4e3e-9cd5-fbaa164c9c30",
                 "name": "Applying a Dynamic Data Driven Genetic Algorithm to Improve Forest Fire Spread Prediction.",
                 "linkTo": "https://link.springer.com/chapter/10.1007/978-3-540-69389-5_6",
                 "description": "Mónica Denham, Ana Cortés, Tomás Margalef, Emilio Luque.Lecture Notes in Computer Science. Volume 5103. Computational Science - ICCS 2008. Springer. 2008. p36 - 45. ISBN 978-3-540-69388-8",
-                "image": "articles/article12.png"
+                "image": "articles/article12.png",
+                "authors": [
+                    "6aeddef9-e935-4242-bde0-cf59da0fbeaa"
+                ],
+                "otherAuthors": [
+                    "Ana Cortés",
+                    "Tomás Margalef"
+                ]
             }
         ]
     },
@@ -131,10 +232,19 @@
         "year": 2007,
         "articles": [
             {
+                "id": "a8c9ad1b-ed24-40a8-9030-7bd0d2165a77",
                 "name": "Algoritmos Genéticos Guiados para Predicción de Incendios Forestales.",
                 "linkTo": "http://sedici.unlp.edu.ar/handle/10915/23181",
                 "description": "Mónica Denham, Ana Cortés, Tomás Margalef, Emilio Luque. Actas del XIII Congreso Argentino de Ciencias de la Computación (CACIC) 2007. Universidad Nacional del Nordeste - RedUNCI",
-                "image": "articles/article13.png"
+                "image": "articles/article13.png",
+                "authors": [
+                    "6aeddef9-e935-4242-bde0-cf59da0fbeaa"
+                ],
+                "otherAuthors": [
+                    "Ana Cortés",
+                    "Tomás Margalef",
+                    "Emilio Luque"
+                ]
             }
         ]
     },
@@ -142,10 +252,20 @@
         "year": 2006,
         "articles": [
             {
+                "id": "3b045d90-821a-42a7-8dd2-aea1f4c5d025",
                 "name": "Improving forest-fire prediction by applying a statistical approach.",
                 "linkTo": null,
                 "description": "Germán Bianchini, Mónica Denham, Ana Cortés, Tomás Margalef, Emilio Luque. Forest Ecology and Management. Volumen 234 número, p210. ISSN: 0378-1127. ELSEVIER Science. 2006. También publicado en: V International Conference on Forest Fire Research. ADAI - Associacao para o Desenvolvimento da Aerodinamica Industrial CEIF - Centro de Estudos sobre Incendios Florestais. Portugal. Coimbra. 2006.",
-                "image": "articles/article14.png"
+                "image": "articles/article14.png",
+                "authors": [
+                    "6aeddef9-e935-4242-bde0-cf59da0fbeaa"
+                ],
+                "otherAuthors": [
+                    "Germán Bianchini",
+                    "Ana Cortés",
+                    "Tomás Margalef",
+                    "Emilio Luque"
+                ]
             }
         ]
     }
