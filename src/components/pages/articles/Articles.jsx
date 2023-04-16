@@ -7,14 +7,12 @@ export const Articles = () => {
         <Container>
             <h2>Artículos</h2>
 
-            {articles.map((articlesByYear, i) =>
+            {articles.map((article, i) =>
                 <div key={i}>
                     {!!i && <hr />}
-                    <h3>{articlesByYear.year}</h3>
+                    <h3>{article.year}</h3>
                     <Row>
-                        {articlesByYear.articles.map(article =>
-                            <ArticleItem key={article.name} article={article} />
-                        )}
+                        <ArticleItem key={article.name} article={article} />
                     </Row>
                 </div>
             )}

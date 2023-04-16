@@ -1,16 +1,19 @@
 import { useEffect, useState } from "react"
 import { Container, Row, Col, Button } from "react-bootstrap"
 import { useParams } from "react-router-dom"
-import { getUserById } from "../../../utils/api"
+import { getArticlesByUserId, getUserById } from "../../../utils/api"
+import articles from "../../../models/articles.json"
 
 export const MemberDetail = () => {
     const { id } = useParams()
     const [member, setMember] = useState({})
     const [showBody, setShowBody] = useState(false)
     const [height, setHeight] = useState(0)
+    const [articles, setArticles] = useState([])
 
     useEffect(() => {
         setMember(getUserById(id))
+        setArticles(getArticlesByUserId(id))
     }, [id])
 
     useEffect(() => {
@@ -38,6 +41,7 @@ export const MemberDetail = () => {
                 <Col xs={12} md={8} lg={9}>
                     <h2>{member?.name}</h2>
                     <strong>{member?.description}</strong>
+
                     {member.body && <section className="mt-4">
                         <div style={{
                             height: showBody ? 'auto' : height,
@@ -48,6 +52,16 @@ export const MemberDetail = () => {
                         <Button onClick={() => setShowBody(!showBody)} className="mt-2" >
                             {showBody ? 'Ver menos' : 'Ver más'}
                         </Button>
+                    </section>}
+
+                    {articles.length > 0 && <section className="mt-4">
+                        <h2>Artículos</h2>
+                        <ul>
+                            {articles.map(art => <li key={art.id}>
+                                <h3>{art.name}</h3>
+                                <p>{art.description}</p>
+                            </li>)}
+                        </ul>
                     </section>}
                 </Col>
             </Row>
