@@ -5,19 +5,19 @@ import { Link } from 'react-router-dom'
 export const Header = () => {
     return (
         <>
-            <Container fluid className='bgc-secondary comp_header'>
+            <Container fluid className='bgc-secondary comp_header' style={{zIndex: 100}}>
                 <Container>
                     <Row>
                         <Col xs={12} lg={8}>
                             <Link to='/'>
-                                <h1 className='m-0 py-2 color-quinary' style={{ width: '40rem' }}>Investigación aplicada a la simulación de incedios forestales</h1>
+                                <h1 className='m-0 py-2 color-quinary'>Investigación aplicada a la simulación de incedios forestales</h1>
                             </Link>
                         </Col>
                     </Row>
                 </Container>
             </Container>
 
-            <Container fluid className='mb-5 p-0 bgc-tertiary position-sticky top-0 comp_navbar'>
+            <Container fluid className='mb-5 bgc-tertiary position-sticky top-0 comp_navbar' style={{zIndex: 100}}>
                 <Container>
                     <nav className='d-flex gap-3'>
                         <Link
